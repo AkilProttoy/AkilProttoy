@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @AkilProttoy
 - 👀 I’m interested in ML, Web Developement and DevOPs
-- 🌱 
-- 
-- ⚽ Manchester City FC 💜
 - 📫 Reach me at my mail: akprottoy10@gmail.com ...
 
 <!---
